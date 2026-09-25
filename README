@@ -1,0 +1,75 @@
+this project is created our local system
+
+# 📝 Simple To-Do List
+
+A simple and beginner-friendly **To-Do List web application** built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+* Add new tasks
+* Delete tasks
+* Simple and clean user interface
+* Responsive basic layout
+* Beginner-friendly JavaScript DOM manipulation
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## 📂 Project Structure
+
+```text
+todo-project/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## ▶️ How to Run
+
+1. Download or clone this project.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. Enter a task in the input box.
+5. Click **Add** to add the task.
+6. Click **Delete** to remove a task.
+
+## 📚 JavaScript Concepts Used
+
+* `querySelector()`
+* `addEventListener()`
+* `createElement()`
+* `appendChild()`
+* `remove()`
+* `if` condition
+* DOM Manipulation
+
+## 🎯 Purpose
+
+This project was created for practicing basic **HTML, CSS, and JavaScript** concepts and understanding how JavaScript interacts with HTML elements.
+
+## 👨‍💻 Author
+
+**Niranjan Kumar**
+
+GitHub: [Niranjanyadav82](https://github.com/Niranjanyadav82)
+
+````
+
+README file create karne ke liye Git Bash mein:
+
+```bash
+touch README.md
+````
+
+Phir VS Code mein:
+
+```bash
+code .
+```
+
+`README.md` mein upar wala content paste kar do.
